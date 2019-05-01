@@ -7,12 +7,3 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
-- name: phpdemo14
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: phpdemo15
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
-- name: startbootstrap-one-page-wonder
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 5.0.8
