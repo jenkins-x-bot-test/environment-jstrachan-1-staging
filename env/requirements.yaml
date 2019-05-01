@@ -15,4 +15,4 @@ dependencies:
   version: 0.0.1
 - name: startbootstrap-one-page-wonder
   repository: http://jenkins-x-chartmuseum:8080
-  version: 5.0.7
+  version: 5.0.8
