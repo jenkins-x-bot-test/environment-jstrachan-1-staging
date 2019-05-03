@@ -12,7 +12,7 @@ dependencies:
   version: 2.3.89
 - name: nodey92
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.18
+  version: 0.0.19
 - name: nodey94
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
